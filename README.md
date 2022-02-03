@@ -5,8 +5,7 @@ In this repository I will tackle the question of outliers, feature importance an
 
 The dataset is related to the red variant of the Portuguese "Vinho Verde" wine. For\\ [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
-![Screen Shot 2022-02-02 at 7 29 34 PM](https://user-images.githubusercontent.com/57463075/152276697-9b32d164-3272-4f8a-ae58-0bba68c884c9.png)
-<img width="794" alt="Screen Shot 2021-12-20 at 10 10 49 PM" src="https://user-images.githubusercontent.com/57463075/152276700-933a6a76-f6f3-4c78-8c1d-59837cdc307f.png">
+![Screen Shot 2022-02-02 at 7 29 34 PM](https://user-images.githubusercontent.com/57463075/152278429-40022055-b602-4e64-a058-2f6f4e636156.png)
 
 
 In an example of imbalanced dataset like this one we have to ask ourselves: do we want our classifier to perform better for majority or minority classes? 
