@@ -45,7 +45,12 @@ I trained Naive Bayes, KNN, Logistic Regression, SVC,Decision trees and Random F
 
 For the first set Naive Bayes and KNN had the best precision/recall score. 
 
+![Screen Shot 2022-02-02 at 7 39 34 PM](https://user-images.githubusercontent.com/57463075/152278491-3bd0af4c-abcd-4c28-9829-e95166c337d7.png)
+
+
 For the second set Naive Bayes and Logarithmic regression slightly outperformed KNN and Suport Vector Classifier. The roc-auc score  for NB and Log.Regr was 0.81 for the test data , and precision/recall was around 75%.
+
+![Screen Shot 2022-02-02 at 7 52 51 PM](https://user-images.githubusercontent.com/57463075/152278529-ff43c5f5-2a30-4282-8e58-1d49a3d3865d.png)
 
 # Further considerations
 
